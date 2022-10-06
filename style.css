@@ -1,0 +1,29 @@
+body{
+    background-color: #e9d8a6;
+}
+
+.image{
+    float: left;
+    width: 200px;
+    height: auto;
+}
+
+.bericht{
+    position: relative;
+    left: 170px;
+    top: 80px;
+}
+
+.header{
+    float: right;
+    position: relative; right: 40%;
+}
+
+.button{
+    float: right;
+    width: 50px;
+    height: 30px;
+    padding: 30px;
+    margin: 20px; margin-top: 140px; margin-right: 60px;
+    position: relative; top: 20%; right: 60px;
+}
